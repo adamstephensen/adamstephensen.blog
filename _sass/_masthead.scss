@@ -94,14 +94,14 @@
 .masthead {
   @extend .defaultMasthead;
   @include media-breakpoint-up(sm) {
-    background-image: url('/images/angular-superpower-photo-1.jpg');
+    background-image: url('/assets/images/angular-superpower-photo-1.jpg');
   }
 }
 
 .apis-masthead {
   @extend .defaultMasthead;
   @include media-breakpoint-up(sm) {
-    background-image: url('/images/angular-superpower-photo-1.jpg');
+    background-image: url('/assets/images/angular-superpower-photo-1.jpg');
   }
   a {
     color: #fff;

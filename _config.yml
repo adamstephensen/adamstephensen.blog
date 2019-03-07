@@ -24,7 +24,6 @@ exclude:
   - "Rakefile"
   - "Readme.md"
   - "LICENSE.txt"
-  - "assets"
   - "ignore"
 
 include:
