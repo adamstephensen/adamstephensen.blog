@@ -3,7 +3,7 @@ title: Recommended Reading
 permalink: /recommended-reading//
 layout: post
 bigimg:
-  - /images/angular-superpower-photo-1.jpg
+  - /assets/images/angular-superpower-photo-1.jpg
 comments: true
 ---
 

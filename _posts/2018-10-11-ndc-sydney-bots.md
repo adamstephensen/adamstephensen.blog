@@ -10,7 +10,7 @@ tags:
   - Videos
   - NDC
 bigimg:
-  - /images/angular-superpower-photo-1.jpg
+  - /assets/images/angular-superpower-photo-1.jpg
 comments: true
 ---
 

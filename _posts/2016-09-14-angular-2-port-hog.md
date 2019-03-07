@@ -3,7 +3,7 @@ title: Angular 2 CLI - Port Hog
 permalink: /2016/09/14/angular-2-cli-port-hog//
 layout: post
 bigimg:
-  - /images/angular-superpower-photo-1.jpg
+  - /assets/images/angular-superpower-photo-1.jpg
 comments: true
 ---
 
