@@ -9,7 +9,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate_path: "/blog/page:num/"
-paginate: 5
+paginate: 10
 
 disqus: "adamstephensen"
 
