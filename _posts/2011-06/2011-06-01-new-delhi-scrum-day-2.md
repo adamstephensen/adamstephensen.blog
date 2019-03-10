@@ -1,6 +1,6 @@
 ---
 title: Professional Scrum Developer Course – New Delhi Day 2
-permalink: 2011/06/01/professional-scrum-developer-course-new-delhi-day-2
+permalink: 2011/06/01/professional-scrum-developer-course-new-delhi-day-2/
 layout: post
 tags:
   - Agile
