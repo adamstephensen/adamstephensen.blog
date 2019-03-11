@@ -1,5 +1,5 @@
 ---
-title: 3 Minutes with ASP.NET 5: Where’s my Cheese?
+title: 3 Minutes with ASP.NET 5 - Where’s my Cheese?
 permalink: 2015/09/29/3-minutes-with-asp-net-5-wheres-my-cheese/
 layout: post
 tags:
