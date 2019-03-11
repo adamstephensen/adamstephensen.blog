@@ -11,7 +11,7 @@ permalink: /:year-:month-:day-:title/
 paginate_path: "/blog/page:num/"
 paginate: 10
 
-disqus: "adamstephensen"
+disqus: "adam-s"
 
 excerpt_length: 250
 
