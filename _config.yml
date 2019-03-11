@@ -12,6 +12,7 @@ paginate_path: "/blog/page:num/"
 paginate: 10
 
 disqus: "adam-s"
+google_analytics: "UA-100810179-1"
 
 excerpt_length: 250
 
