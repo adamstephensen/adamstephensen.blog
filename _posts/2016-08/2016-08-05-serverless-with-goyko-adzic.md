@@ -8,5 +8,4 @@ tags:
 comments: true
 ---
 
-[youtube https://www.youtube.com/watch?v=dVCgK8ojags&w=560&h=315]
-
+{% youtube dVCgK8ojags %}

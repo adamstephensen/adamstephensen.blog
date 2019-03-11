@@ -12,7 +12,8 @@ I get asked a lot about the secret to the success of FireBootCamp, and how we ge
 
 The SSW.TV team kindly put together this collection of behind-the-scenes footage.
 
-http://www.youtube.com/watch?v=KVfDflie_5Y
+
+{% youtube KVfDflie_5Y %}
 
  
 

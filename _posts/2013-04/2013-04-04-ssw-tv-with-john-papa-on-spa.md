@@ -4,6 +4,7 @@ permalink: 2013/04/04/johnpapa-spa/
 layout: post
 tags:
   - .NET
+  - Videos
 comments: true
 ---
 <div>
@@ -15,4 +16,5 @@ I had a great chat with John Papa about building Single Page Applications to get
 <div></div>
 <div>Check it out on <a href="http://tv.ssw.com/3168/john-papa-spa">SSW TV</a></div>
 <div></div>
-<div id="1365039904041_social_5998">[youtube http://www.youtube.com/watch?v=pNDDf-yh2bE?rel=0]</div>
+
+{% youtube pNDDf-yh2bE %}

@@ -4,8 +4,10 @@ permalink: 2017/04/27/microsoft-azure-service-fabric-with-daniel-toomey/
 layout: post
 tags:
   - .NET
+  - Videos
 comments: true
 ---
 
-[youtube https://www.youtube.com/watch?v=Rgrtn3TfyGU&w=560&h=315]
+
+{% youtube Rgrtn3TfyGU %}
 

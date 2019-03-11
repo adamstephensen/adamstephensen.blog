@@ -4,6 +4,7 @@ permalink: 2017/10/16/ndc-sydney-2017-the-story-of-azure-with-scott-allen/
 layout: post
 tags:
   - .NET
+  - Videos
 comments: true
 ---
 

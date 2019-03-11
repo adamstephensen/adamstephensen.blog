@@ -4,6 +4,7 @@ permalink: 2014/02/03/week-1-at-firebootcamp-video/
 layout: post
 tags:
   - .NET
+  - Videos
 comments: true
 ---
 
@@ -13,4 +14,4 @@ The teams have been thrown in the deep end, but they are loving it.
 
 They are really getting into learning MVC and Scrum. They especially loved having Andrew Coates from Microsoft as a guest mentor to introduce them to Windows Azure, TFS and Continuous Deployment.
 
-[youtube http://www.youtube.com/watch?v=R7dvT-6nKe4?rel=0&w=640&h=360]
+{% youtube R7dvT-6nKe4 %}

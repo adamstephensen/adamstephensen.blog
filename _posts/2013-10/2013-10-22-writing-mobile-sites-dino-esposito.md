@@ -4,6 +4,7 @@ permalink: 2013/10/22/mobile-sites-dino-esposito/
 layout: post
 tags:
   - .NET
+  - Videos
 comments: true
 ---
 
@@ -15,4 +16,4 @@ Responsive Web Design (RWD) delivers multi-device views without extra costs, but
 
 This video session with Dino looks at a few real examples where RWD is not enough and server-side detection is necessary.
 
-http://www.youtube.com/watch?v=IUE6Ut0GXi4
+{% youtube IUE6Ut0GXi4 %}

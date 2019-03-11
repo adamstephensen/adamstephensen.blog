@@ -8,7 +8,7 @@ tags:
 comments: true
 ---
 
-[youtube=https://www.youtube.com/watch?v=-AIkWDQkykA]
+{% youtube -AIkWDQkykA %}
 
  
 

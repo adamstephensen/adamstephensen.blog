@@ -4,8 +4,9 @@ permalink: 2013/04/17/clean-code-peter-gfader/
 layout: post
 tags:
   - .NET
+  - Videos
 comments: true
 ---
 Peter Gfader knows how to ship software. In this interview we chat about Clean Code, testing and continuous improvement
 
-http://www.youtube.com/watch?v=4CAGaopAEew
+{% youtube 4CAGaopAEew %}

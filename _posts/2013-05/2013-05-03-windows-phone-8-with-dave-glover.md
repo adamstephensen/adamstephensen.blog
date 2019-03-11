@@ -4,6 +4,7 @@ permalink: 2013/05/03/wp8-dave-glover/
 layout: post
 tags:
   - .NET
+  - Videos
 comments: true
 ---
 I was joined by Windows Phone Developer Evangelist Dave Glover from Microsoft to talk about Windows Phone 8 development.
@@ -18,4 +19,4 @@ In this video, we discuss:
  - What’s new in Windows Phone 8
  - How to get your app noticed on the Marketplace
 
-http://www.youtube.com/watch?v=EKJmZYZXrYQ
+{% youtube EKJmZYZXrYQ %}
