@@ -1,6 +1,6 @@
 ---
 title: Azure Storage Transactions - Being Frugal
-permalink: 2012/04/25/azure-storage-transactions
+permalink: 2012/04/25/azure-storage-transactions/
 layout: post
 tags:
   - Azure
