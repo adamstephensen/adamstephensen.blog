@@ -40,7 +40,9 @@ git pull                       : Pull the pending commits from the server
 git pull origin staging        : Same as the above, but specifies the server and branch to pull from
 
 git push                       : Push the current repository
-git push origin staging        : Some devs like to specify the target repository as well. Here it is 'staging' on 'origin'</pre>
+git push origin staging        : Some devs like to specify the target repository as well. Here it is 'staging' on 'origin'
+git config --global credential.helper cache   : Get git to remember your username and password
+</pre>
 <h4><strong>Merge from staging to master</strong></h4>
 First you must be on the branch that you want to merge to git checkout master :The checkout command select the branch to work on Merge the staging branch into the master branch
 <pre style="padding-left:30px;">git merge staging           :Specify the branch to pull the changes from</pre>
