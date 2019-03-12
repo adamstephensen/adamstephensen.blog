@@ -11,8 +11,8 @@ permalink: /:year-:month-:day-:title/
 paginate_path: "/blog/page:num/"
 paginate: 10
 
-# disqus: "YOUR DISCUSS KEY"
-# google_analytics: "YOUR GOOGLE ANALYTICS KEY"
+disqus: "YOUR DISCUSS KEY"
+google_analytics: "YOUR GOOGLE ANALYTICS KEY"
 github_username:  adamstephensen
 
 excerpt_length: 250
