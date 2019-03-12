@@ -11,8 +11,9 @@ permalink: /:year-:month-:day-:title/
 paginate_path: "/blog/page:num/"
 paginate: 10
 
-disqus: "adam-s"
-google_analytics: "UA-100810179-1"
+# disqus: "YOUR DISCUSS KEY"
+# google_analytics: "YOUR GOOGLE ANALYTICS KEY"
+github_username:  adamstephensen
 
 excerpt_length: 250
 
@@ -31,7 +32,6 @@ include:
   - .nojekyll
   - robots.txt
 
-github_username:  adamstephensen
 
 gems:
   - jekyll-redirect-from
