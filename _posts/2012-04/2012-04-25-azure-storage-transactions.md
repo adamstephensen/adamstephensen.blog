@@ -6,6 +6,13 @@ tags:
   - Azure
 comments: true
 ---
+
+## Temp Bot
+
+<iframe src='https://webchat.botframework.com/embed/rex-dev-bot?s=3SnRLwsoneo.DR_IVOP96j7rN7QaaKb_q9LYgBIMkMoYWuwDVok3mnM'  style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
+
+##Blog
+
 Azure transactions are CHEAP. You get tens of thousands for just a few cents. What is dangerous though is that it is very easy to have your application generate hundreds of thousands of transactions a day.
 
 Every call to Windows Azure Blobs, Tables and Queues count as 1 transaction. Windows Azure diagnostic logs, performance counters, trace statements and IIS logs are written to Table Storage or Blob Storage.
@@ -45,3 +52,5 @@ If you have enabled continuous deployment to Azure, you will need to monitor you
 <a href="http://blogs.msdn.com/b/windowsazurestorage/archive/2010/07/09/understanding-windows-azure-storage-billing-bandwidth-transactions-and-capacity.aspx">http://blogs.msdn.com/b/windowsazurestorage/archive/2010/07/09/understanding-windows-azure-storage-billing-bandwidth-transactions-and-capacity.aspx</a>
 
 <a href="http://serverfault.com/questions/363803/does-windows-azure-hosted-service-use-storage-transactions">http://serverfault.com/questions/363803/does-windows-azure-hosted-service-use-storage-transactions</a>
+
+
