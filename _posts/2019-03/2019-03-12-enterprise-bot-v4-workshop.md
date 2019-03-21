@@ -66,3 +66,5 @@ I intend to flesh this out and improve it as we run more and more.
 ## Configure Authentication
 
 
+## Resources: 
+
