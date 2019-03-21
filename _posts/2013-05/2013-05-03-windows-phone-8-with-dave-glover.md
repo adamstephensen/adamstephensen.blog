@@ -3,7 +3,7 @@ title: Windows Phone 8 with Windows Phone Developer Evangelist Dave Glover
 permalink: 2013/05/03/wp8-dave-glover/
 layout: post
 tags:
-  - .NET
+  - Mobile
   - Videos
 comments: true
 ---

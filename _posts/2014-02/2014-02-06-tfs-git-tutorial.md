@@ -4,6 +4,8 @@ permalink: 2014/02/06/tfs-git-my-60-second-tutorial/
 layout: post
 tags:
   - .NET
+  - Git
+  - DevOps
 comments: true
 ---
 

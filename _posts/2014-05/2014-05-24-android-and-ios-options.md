@@ -4,6 +4,8 @@ permalink: 2014/05/24/opinion-ios-android-development-options-in-visual-studio-j
 layout: post
 tags:
   - .NET
+  - Mobile
+  - Visual Studio
 comments: true
 ---
 

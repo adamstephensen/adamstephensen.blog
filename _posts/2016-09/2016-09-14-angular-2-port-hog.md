@@ -5,6 +5,9 @@ layout: post
 bigimg:
   - /assets/images/angular-superpower-photo-1.jpg
 comments: true
+tags:
+  - Angular
+  - JavaScript
 ---
 
 I'm running lots of Angular 2 using the CLI on OSX (and loving it).

@@ -4,6 +4,7 @@ permalink: 2014/04/22/testing-an-iis-express-app-from-an-ie-8-vm-on-my-macbook/
 layout: post
 tags:
   - .NET
+  - Testing
 comments: true
 ---
 

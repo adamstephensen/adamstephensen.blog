@@ -3,7 +3,8 @@ title: Adding a Testing Column to Your TFS 2012 Task Board
 permalink: 2013/08/01/adding-a-testing-column-to-your-tfs-2012-task-board/
 layout: post
 tags:
-  - .NET
+  - ALM
+  - Testing
 comments: true
 ---
 

@@ -3,7 +3,8 @@ title: 2013 Scrum Guide –Value, Transparency, Planning and Team Work
 permalink: 2013/08/02/2013-scrum-guide-value-transparency-planning-and-team-work/
 layout: post
 tags:
-  - .NET
+  - Agile
+  - DevOps
 comments: true
 ---
 

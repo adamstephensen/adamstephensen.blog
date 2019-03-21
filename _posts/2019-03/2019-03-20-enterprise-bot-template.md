@@ -1,3 +1,11 @@
+---
+title: Understanding the Enterprise Bot Template (draft)
+layout: post
+tags:
+  - Azure
+  - AI
+comments: true
+---
 # Understanding the Enterprise Bot Template
 
 This is my version of the [how bots work](

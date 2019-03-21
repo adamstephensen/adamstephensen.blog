@@ -5,6 +5,7 @@ layout: post
 tags:
   - .NET
   - Videos
+  - Training
 comments: true
 ---
 

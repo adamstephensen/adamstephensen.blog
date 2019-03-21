@@ -4,6 +4,7 @@ permalink: /2012/05/19/hiking-in-the-royal-national-park
 layout: post
 tags:
   - Fun
+  - Travel
 comments: true
 ---
 

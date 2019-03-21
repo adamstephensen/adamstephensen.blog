@@ -5,6 +5,8 @@ layout: post
 bigimg:
   - /assets/images/angular-superpower-photo-1.jpg
 comments: true
+tags:
+  - Reading
 ---
 
 # {{ page.title }}

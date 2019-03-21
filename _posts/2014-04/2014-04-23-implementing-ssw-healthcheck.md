@@ -4,6 +4,7 @@ permalink: 2014/04/23/implementing-ssw-healthcheck-step-by-step/
 layout: post
 tags:
   - .NET
+  - Testing
 comments: true
 ---
 

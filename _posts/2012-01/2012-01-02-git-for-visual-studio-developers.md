@@ -2,6 +2,9 @@
 title: Git - Essential Commands for Visual Studio Developers
 permalink: /git-essentials/
 layout: post
+tags:
+  - Git
+  - Visual Studio
 bigimg:
   - /assets/images/angular-superpower-photo-1.jpg
 comments: true
