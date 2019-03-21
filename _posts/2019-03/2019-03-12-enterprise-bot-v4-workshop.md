@@ -4,6 +4,8 @@ layout: post
 tags:
   - Azure
   - AI
+  - Bots
+  - Cognitive Services
 comments: true
 ---
 # Understanding the Enterprise Bot Template v4
