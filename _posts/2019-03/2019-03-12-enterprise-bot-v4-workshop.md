@@ -14,7 +14,8 @@ I intend to flesh this out and improve it as we run more and more.
 
 ## Demo of the Enterprise Bot Template
 
-- **todo** Deploy Bot Template to Azure 
+- **todo** Deploy Bot Template to Azure as per [Enterprise Bot Template - Getting Started](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-getting-started)
+
 - **todo** Write Demo Script
 
 ## Enterprise Bot Template Architecture Discussion
