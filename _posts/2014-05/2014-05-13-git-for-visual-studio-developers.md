@@ -4,6 +4,9 @@ permalink: 2014/05/13/update-your-gitignore/
 layout: post
 tags:
   - .NET
+  - Git
+  - Visual Studio
+  - Tools
 comments: true
 ---
 

@@ -4,6 +4,7 @@ permalink: 2012/12/06/summary-microsoft-shares-considerations-for-extending-ad-i
 layout: post
 tags:
   - Azure
+  - Identity
 comments: true
 ---
 

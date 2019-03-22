@@ -3,7 +3,7 @@ title: SSW TV Interview with John Papa on Single Page Applications (SPA)
 permalink: 2013/04/04/johnpapa-spa/
 layout: post
 tags:
-  - .NET
+  - JavaScript
   - Videos
 comments: true
 ---

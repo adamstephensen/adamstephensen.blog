@@ -4,6 +4,7 @@ permalink: 2014/03/06/entity-framework-code-first-delete-a-localdb-instance/
 layout: post
 tags:
   - .NET
+  - EF
 comments: true
 ---
 

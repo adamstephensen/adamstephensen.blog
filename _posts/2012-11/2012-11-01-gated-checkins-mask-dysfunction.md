@@ -4,6 +4,7 @@ permalink: 2012/11/01/gated-checkins-mask-dysfunction/
 layout: post
 tags:
   - Agile
+  - DevOps
 comments: true
 ---
 

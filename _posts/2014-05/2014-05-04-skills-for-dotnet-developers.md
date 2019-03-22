@@ -4,6 +4,7 @@ permalink: /2014/05/04/what-skills-do-you-need-to-have-on-your-tool-belt-to-be-a
 layout: post
 tags:
   - .NET
+  - Tools
 comments: true
 ---
 

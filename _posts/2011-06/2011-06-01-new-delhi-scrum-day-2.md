@@ -5,6 +5,8 @@ layout: post
 tags:
   - Agile
   - Training
+  - Travel
+  - DevOps
 comments: true
 ---
 

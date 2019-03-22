@@ -4,6 +4,7 @@ permalink: 2014/09/28/configuring-my-macbook-pro-visual-studio-vm/
 layout: post
 tags:
   - Hardware
+  - Visual Studio
 comments: true
 ---
 

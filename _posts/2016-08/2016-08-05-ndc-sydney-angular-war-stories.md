@@ -5,6 +5,8 @@ layout: post
 tags:
   - .NET
   - Videos
+  - Angular
+  - JavaScript
 comments: true
 ---
 

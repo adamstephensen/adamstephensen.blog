@@ -4,6 +4,7 @@ permalink: 2013/09/10/easily-managing-azure-vms-with-azure-powershell-cmdlets/
 layout: post
 tags:
   - .NET
+  - Azure
 comments: true
 ---
 

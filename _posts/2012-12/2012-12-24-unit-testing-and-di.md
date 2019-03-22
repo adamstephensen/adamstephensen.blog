@@ -3,7 +3,8 @@ title: Eat your vegetables! Baking Healthy Projects with Unit Testing and Depend
 permalink: 2012/12/24/writing-good-unit-tests/
 layout: post
 tags:
-  - .NET
+  - Testing
+  - Code
   - Videos
 comments: true
 ---

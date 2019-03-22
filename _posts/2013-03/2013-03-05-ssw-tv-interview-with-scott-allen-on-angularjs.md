@@ -3,8 +3,9 @@ title: SSW TV Interview with Scott Allen on AngularJS
 permalink: 2013/03/05/angularjs/
 layout: post
 tags:
-  - .NET
+  - JavaScript
   - Videos
+  - Angular
 comments: true
 ---
 <strong>Interviewing Scott Allen on  using AngularJS to build responsive web applications with two-way data-binding, clear separation of concerns and improved testability.</strong>

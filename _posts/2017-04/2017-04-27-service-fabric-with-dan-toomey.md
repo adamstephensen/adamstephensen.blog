@@ -5,6 +5,7 @@ layout: post
 tags:
   - .NET
   - Videos
+  - Azure
 comments: true
 ---
 

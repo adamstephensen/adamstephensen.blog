@@ -4,6 +4,7 @@ permalink: 2014/05/02/upgrading-from-asp-net-identity-1-0-to-2-0/
 layout: post
 tags:
   - .NET
+  - Identity
 comments: true
 ---
 

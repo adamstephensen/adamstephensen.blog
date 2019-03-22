@@ -3,7 +3,7 @@ title: I love Azure VMs
 permalink: /2012/07/26/i-love-azure-vms/
 layout: post
 tags:
-  - Fun
+  - Azure
 comments: true
 ---
 

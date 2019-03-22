@@ -4,6 +4,8 @@ permalink: 2014/02/06/60-second-demo-configure-a-ci-build-setup-build-notificati
 layout: post
 tags:
   - .NET
+  - Git
+  - DevOps
 comments: true
 ---
 
