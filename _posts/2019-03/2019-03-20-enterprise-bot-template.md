@@ -1,3 +1,13 @@
+---
+title: Understanding the Enterprise Bot Template (draft)
+layout: post
+tags:
+  - Azure
+  - AI
+  - Bots
+  - Cognitive Services
+comments: true
+---
 # Understanding the Enterprise Bot Template
 
 This is my version of the [how bots work](
@@ -12,11 +22,16 @@ https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure
 ### Bot Class
 
 ``` C#
-class EchoWithCounterBot : IBot
-** todo: check this
+    public class EnterpriseBotSample : IBot
+    {
+        private readonly BotServices _services;
+        private readonly ConversationState _conversationState;
+        private readonly UserState _userState;
+        private readonly IBotTelemetryClient _telemetryClient;
+        private DialogSet _dialogs;
 ```
 
-- The main bot logic is defined in the EchoWithCounterBot class that derives from the IBot interface. 
+- The main bot logic is defined in the EnterpriseBotSample class that derives from the IBot interface. 
 - IBot defines a single method OnTurnAsync. 
 
 ### OnTurnAsync

@@ -4,6 +4,8 @@ layout: post
 tags:
   - Azure
   - AI
+  - Bots
+  - Cognitive Services
 comments: true
 ---
 # Understanding the Enterprise Bot Template v4
@@ -65,5 +67,9 @@ I intend to flesh this out and improve it as we run more and more.
 ## Consuming external APIs
 
 ## Configure Authentication
+
+# navigation
+images from https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-dialog?view=azure-bot-service-4.0
+
 
 
