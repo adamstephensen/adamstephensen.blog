@@ -1,6 +1,8 @@
 ---
 title: Understanding the Enterprise Bot Template (draft)
 layout: post
+bigimg:
+  - /assets/images/angular-superpower-photo-1.jpg
 tags:
   - Azure
   - AI

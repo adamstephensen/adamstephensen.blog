@@ -1,6 +1,8 @@
 ---
 title: Enterprise Bot Workshop Agenda (draft)
 layout: post
+bigimg:
+  - /assets/images/angular-superpower-photo-1.jpg
 tags:
   - Azure
   - AI

@@ -2,6 +2,8 @@
 title: Azure DevOps Pipelines Workshop - Demo Scripts (Drafts)
 permalink: 2019/03/25/azure-pipelines-workshop-demo-scripts/
 layout: post
+bigimg:
+  - /assets/images/angular-superpower-photo-1.jpg
 tags:
   - Azure
   - DevOps
