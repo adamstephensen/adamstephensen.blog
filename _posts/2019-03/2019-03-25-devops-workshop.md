@@ -45,7 +45,7 @@ You can even export existing build definitions as YAML if you would prefer to ma
 3. Build | Logs tab | Test Assemblies task
    Note that there is a warning that the test assembly pattern didn’t find any matches. Upon closer inspection, it appears that it was expecting a build variable for BuildConfiguration to be available, but since it wasn’t, the platform simply used the text as-is. This was something we probably should have expected given the warnings in the YAML.
 4. Edit build | Variables | Add | 
-- "Build Platform" | "any cpu"
+- "BuildPlatform" | "any cpu"
 - "BuildConfiguration" | "release"
 - Check the 'Settable at queue time' option for each
 5. Triggers tab | Note that you can override the YAML settings and configure CI like web-based builds
