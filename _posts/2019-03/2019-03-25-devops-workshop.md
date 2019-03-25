@@ -92,3 +92,20 @@ We will make it our policy that the QA deployment cannot be considered a success
 11. Return to release tab. After approx 5 mins Azure DevOps will check the query again. 
     Once it does, the bugs will be cleared and the release will be approved. You can then click Approve to approve deployment to production.
 12. Confirm the release and watch it, and then check the prod website
+
+## Task 6: Working with deployment slots
+
+The most common scenario for using a deployment slot is to have a staging stage for your application to run against productions services, but without replacing the current production application. If the staging deployment passes review, it can immediately be “swapped” in as the production slot with the click of a button. As an additional benefit, the swap can be quickly reversed in the event an issue is uncovered with the new build.
+
+1. Open the prod app service > Deployment Slots > Add Slot > 'staging' with 'Config Source' as the current deployment.
+   Note: the 'production' slot is considered a 'default' and is not shown as a separate slot
+2. Edit the Azure DevOps Prod stage pipeline > Select 'Deploy Azure App Service' task > 
+3. Select Deploy to slot > choose 'staging'. Click Save
+4. Commit a change to 'v4.0'. Follow pipeilne through and approve release.
+5. Refresh browser tab for Prod website -> Still v3.0
+6. Open a new tab to the staging slot.... 'https://<app-name>-staging.azurewebsites.net
+7. Return to the App Service in Azure Portal. Deployment Slots > Swap > OK (with defaults)
+8. Refresh prod browser window -> v4.0
+
+> Note:  Note that if your apps rely on slot-level configuration settings (such as connection strings or app settings marked “slot”), then the worker processes will be restarted. If you’re working under those circumstances and would like to warm up the app before the swap completes, you can select the Swap with preview swap type.
+   
