@@ -8,24 +8,69 @@ tags:
 comments: true
 ---
 
+## Exercise 1a: Enabling Continuous Integration with Azure Pipelines
+Source: https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/
+
+
+************************************************************************
+
+
+## Exercise 1a: Configuring Builds as Code with YAML in Azure Pipelines
+Source: https://www.azuredevopslabs.com/labs/azuredevops/yaml/
+
+## Task 1: Setting up Azure resources
+1. Disable the CI trigger for the default build definition. Edit | Triggers | Enabled | Save
+
+## Task 2: Adding a YAML build definition
+1. Repos | Files | New File | 'azure-pipelines.yml'
+   > Azure DevOps will automatically create a definition when you add this file to root of repo.
+2. Add the yaml below and commit.
+``` YML
+ steps:
+ - script: echo hello world
+```
+3. Go to Pipelines | Build | Start the build | View the last build step.
+
+## Task 3: Crafting sophisticated YAML definitions
+You can even export existing build definitions as YAML if you would prefer to manage them in code.
+
+1. Builds | PartsUnlimitedE2E | Edit | View YAML | Copy to clipboard
+2. Open our 'azure-pipelines.yml' and paste in contents. Commit changes
+> Note: In the comment blog: The SymbolPath reference is coincidental (it’s a literal needed for the build), but the BuildPlatform and BuildConfguration variables will play a role later.
+3. Pipelines | Build | Open the new build to follow its progress. 
+   It will be successful but report there were no tests - there should have been. 
+   we will work out the problem.
+3. Build | Logs tab | Test Assemblies task
+   Note that there is a warning that the test assembly pattern didn’t find any matches. Upon closer inspection, it appears that it was expecting a build variable for BuildConfiguration to be available, but since it wasn’t, the platform simply used the text as-is. This was something we probably should have expected given the warnings in the YAML.
+4. Edit build | Variables | Add | 
+- "Build Platform" | "any cpu"
+- "BuildConfiguration" | "release"
+- Check the 'Settable at queue time' option for each
+5. Triggers tab | Note that you can override the YAML settings and configure CI like web-based builds
+6. Save and Queue
+7. Check the tests. All good.
+
+
+************************************************************************
+
+
+# Exercise #2 Embracing Continuous Delivery with Azure Pipelines
 Source: https://www.azuredevopslabs.com/labs/azuredevops/continuousdeployment/
 
-# #1 Embracing Continuous Delivery with Azure Pipelines
-
 ## Task 1 Setting up Azure Resources
-- create a SQL Database
+1. Create a SQL Database (if you haven't already made it)
 ```
   database name: partsunlimited
   source: blank database
   server name: <yourname>-partsunlimited
 ```
-- create a web app
+2.Create a web app (if you haven't already made it)
 ```
   app name: <yourname>-partsunlimited-qa
   resource group & subscription: same as previous
   app service plan: accept the defaults
   OS: Windows
-  Apop Insights: Off
+  App Insights: Off
 ```
 
 ## Task 2: Creating a continuous release to the QA state
@@ -108,4 +153,10 @@ The most common scenario for using a deployment slot is to have a staging stage 
 8. Refresh prod browser window -> v4.0
 
 > Note:  Note that if your apps rely on slot-level configuration settings (such as connection strings or app settings marked “slot”), then the worker processes will be restarted. If you’re working under those circumstances and would like to warm up the app before the swap completes, you can select the Swap with preview swap type.
-   
+
+
+************************************************************************
+
+
+# Exercise #3 GitHub integration with Azure Pipelines
+Source: https://www.azuredevopslabs.com/labs/vstsextend/github-azurepipelines/
