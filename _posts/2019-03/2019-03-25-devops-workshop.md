@@ -83,4 +83,12 @@ We will make it our policy that the QA deployment cannot be considered a success
 4. Add Pre-deployment approvals > add yourself as an Approver
 5. Click the Prod job > change the app service name to be the Prod web app
 6. Save the pipeline
-   
+7. Edit ```PartsUnlimited-aspnet45/src/PartsUnlimitedWebsite/Views/Shared/_Layout.cshtml. ```
+   Change v2.0 to v3.0
+8. Follow the release through to QA. It will fail. 
+   Click the View post-deployment gates button.
+9. In a new tab open 'Boards | Queries | Shared Queries | Critical Bugs' to locate the bug
+10. Open the bug and mark it as Done. Click Save. (Usually we'd actually fix the bug ;-))
+11. Return to release tab. After approx 5 mins Azure DevOps will check the query again. 
+    Once it does, the bugs will be cleared and the release will be approved. You can then click Approve to approve deployment to production.
+12. Confirm the release and watch it, and then check the prod website
