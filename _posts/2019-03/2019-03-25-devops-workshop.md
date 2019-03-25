@@ -53,6 +53,7 @@ QA environment task | select QA web app
 DefaultConnectionString: <paste in the connectionstring>
 ```
 4. Click Save
+5. Repeat for Prod web app
 
 ## Task 4: Invoking a CD release to QA
 1. Open Azure Devops Repos tab in a new browser tab
@@ -68,3 +69,18 @@ DefaultConnectionString: <paste in the connectionstring>
 7. Check that it now says 'v2.0' after the image
 
 ## Task5: Creating a gated release to the production stage
+We are including both automated quality gates as well as a manual approver gate. 
+We will make it our policy that the QA deployment cannot be considered a success until all critical bugs have been resolved.
+
+1. Open the Release pipeline. Clone the QA stage. 
+2. Apply post-deployment considitions on QA gate
+   - Enable the Gates option
+   - Change 'Delay before evaluation' to 0
+   - Add 'Query Work Items' Deployment gates
+   - Query > Shared Queries | Critical Bugs
+   - Evuation options > Time between re-evaluation of gates to 5.
+3. Rename 'Copy of QA' to Prod
+4. Add Pre-deployment approvals > add yourself as an Approver
+5. Click the Prod job > change the app service name to be the Prod web app
+6. Save the pipeline
+   
