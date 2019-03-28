@@ -14,7 +14,7 @@ comments: true
 Source: https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/
 
 
-************************************************************************
+*************************************************************************
 
 
 ## Exercise 1a: Configuring Builds as Code with YAML in Azure Pipelines
