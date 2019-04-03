@@ -52,6 +52,9 @@ Full Article: https://www.microsoft.com/en-us/research/project/project-premoniti
 
 InDro Robotics, a drone operating outfit based in Salt Spring Island British Columbia, recently connected with our team at Microsoft to explore how they could better enable their drones for search and rescue efforts.
 
+
+![alt text](./images/InDroRobotics.jpg)
+
 Leveraging Custom Vision Cognitive Service and other Azure services, including IoT Hub, InDro Robotics developers can now successfully equip their drones to:
 
 - Identify objects in large bodies of water, such as life vests, boats, etc. as well as determine the severity of the findings
@@ -60,6 +63,9 @@ Leveraging Custom Vision Cognitive Service and other Azure services, including I
 
 
 Full article: https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/
+
+
+
 
 ## More info
 
