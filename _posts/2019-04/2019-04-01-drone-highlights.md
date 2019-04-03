@@ -33,8 +33,8 @@ Microsoft FarmBeats aims to enable farmers to increase farm productivity and red
 
 {% youtube KTvdjcU0lf8 %}
 
-More reading on FarmBeats
-- [](https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/)
+Links: 
+[More reading on FarmBeats](https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/)
 
 ## Project Premonition - Using drones to fight infectious diseases
 
@@ -49,8 +49,8 @@ It does this by
 
 {% youtube kSUpk5CJmkw %}
 
-Full Article: [](https://www.microsoft.com/en-us/research/project/project-premonition/)
-More Info: [](https://www.microsoft.com/en-us/research/video/project-premonition-seeking-to-prevent-disease-outbreaks-extended/)
+[Full Article available here](https://www.microsoft.com/en-us/research/project/project-premonition/)
+[More Info here](https://www.microsoft.com/en-us/research/video/project-premonition-seeking-to-prevent-disease-outbreaks-extended/)
 
 ## Teaching Drones to Aid Search and Rescue efforts via Cognitive Services
 
@@ -64,7 +64,7 @@ Leveraging Custom Vision Cognitive Service and other Azure services, including I
 - Recognize emergency situations and notify control stations immediately, before assigning to a rescue squad
 - Establish communication between boats, rescue squads and the control stations. The infrastructure supports permanent storage and per-device authentication
 
-Full article: [](https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/)
+[Full article available here](https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/)
 
 ## More info
 

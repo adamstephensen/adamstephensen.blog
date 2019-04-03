@@ -1,5 +1,5 @@
 ---
-title: Azure DevOps Pipelines Workshop - Demo Scripts (in-progress)
+title: Azure DevOps Pipelines Workshop & Demo Scripts
 permalink: 2019/03/25/azure-pipelines-workshop-demo-scripts/
 layout: post
 bigimg:
@@ -18,7 +18,13 @@ The materials put together by the Azure DevOps team are fantastic and cover a ve
 
 You can get them here [https://www.azuredevopslabs.com](https://www.azuredevopslabs.com).
 
-Here is an overview of what I covered on the day and some shortcut notes I use for when I demo the day (to save me looking up the complete docs): 
+![Available DevOps Labs](./images/azure-pipelines-labs.jpg)
+
+## Demo Scripts (In-Progress)
+
+Here is an overview of what I covered on the day and some basic notes I use for when I demo the day (to save me looking up the complete docs). 
+
+Tip: After you have followed the step by step instructions - see if you can complete the task again just following my demo script notes.
 
 ## Exercise 1a: Enabling Continuous Integration with Azure Pipelines
 Source: https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/
