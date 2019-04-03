@@ -10,9 +10,9 @@ tags:
   - Cognitive Services
 comments: true
 ---
-# Understanding the Enterprise Bot Template v4
+# Enterprise Bot Workshop Agenda (draft)
 
-This is a draft agenda for the bot workshops that Valeriia and I run with out customers.
+This is a draft agenda for the bot workshops that Valeriia and I run with our customers.
 
 I intend to flesh this out and improve it as we run more and more. 
 
@@ -46,7 +46,7 @@ I intend to flesh this out and improve it as we run more and more.
 
 [Deploying your bot](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-getting-started?view=azure-bot-service-4.0#deploy-your-bot)
 
-##Customise the Enterprise Template
+## Customise the Enterprise Template
 
 [Customise the template](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-customize?view=azure-bot-service-4.0)
 
@@ -70,10 +70,8 @@ I intend to flesh this out and improve it as we run more and more.
 
 ## Configure Authentication
 
-# navigation
-images from https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-dialog?view=azure-bot-service-4.0
-
-
+# Navigation
+- images from https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-dialog?view=azure-bot-service-4.0
 
 ## Resources: 
 
