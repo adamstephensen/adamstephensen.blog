@@ -1,5 +1,5 @@
 ---
-title: Azure DevOps Pipelines Workshop - Demo Scripts (Drafts)
+title: Azure DevOps Pipelines Workshop - Demo Scripts (in-progress)
 permalink: 2019/03/25/azure-pipelines-workshop-demo-scripts/
 layout: post
 bigimg:
@@ -9,6 +9,16 @@ tags:
   - DevOps
 comments: true
 ---
+
+I recently ran a hands-on workshop about how to build Azure Pipelines for 'build' and 'release'. 
+
+Pipelines are great as the allow you to automate your builds and deployments so you spend less time with the nuts and bolts, and more time being creative.
+
+The materials put together by the Azure DevOps team are fantastic and cover a very broad range of topics.
+
+You can get them here [https://www.azuredevopslabs.com](https://www.azuredevopslabs.com).
+
+Here is an overview of what I covered on the day: 
 
 ## Exercise 1a: Enabling Continuous Integration with Azure Pipelines
 Source: https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/
