@@ -30,10 +30,10 @@ Source: https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/
 ## Exercise 1a: Configuring Builds as Code with YAML in Azure Pipelines
 Source: https://www.azuredevopslabs.com/labs/azuredevops/yaml/
 
-## Task 1: Setting up Azure resources
+### Task 1: Setting up Azure resources
 1. Disable the CI trigger for the default build definition. Edit | Triggers | Enabled | Save
 
-## Task 2: Adding a YAML build definition
+### Task 2: Adding a YAML build definition
 1. Repos | Files | New File | 'azure-pipelines.yml'
    > Azure DevOps will automatically create a definition when you add this file to root of repo.
 2. Add the yaml below and commit.
@@ -43,7 +43,7 @@ Source: https://www.azuredevopslabs.com/labs/azuredevops/yaml/
 ```
 3. Go to Pipelines | Build | Start the build | View the last build step.
 
-## Task 3: Crafting sophisticated YAML definitions
+### Task 3: Crafting sophisticated YAML definitions
 You can even export existing build definitions as YAML if you would prefer to manage them in code.
 
 1. Builds | PartsUnlimitedE2E | Edit | View YAML | Copy to clipboard
@@ -66,10 +66,10 @@ You can even export existing build definitions as YAML if you would prefer to ma
 ************************************************************************
 
 
-# Exercise #2 Embracing Continuous Delivery with Azure Pipelines
+## Exercise #2 Embracing Continuous Delivery with Azure Pipelines
 Source: https://www.azuredevopslabs.com/labs/azuredevops/continuousdeployment/
 
-## Task 1 Setting up Azure Resources
+### Task 1 Setting up Azure Resources
 1. Create a SQL Database (if you haven't already made it)
 ```
   database name: partsunlimited
@@ -85,7 +85,7 @@ Source: https://www.azuredevopslabs.com/labs/azuredevops/continuousdeployment/
   App Insights: Off
 ```
 
-## Task 2: Creating a continuous release to the QA state
+### Task 2: Creating a continuous release to the QA state
 - open a new browser tab for Azure DevOps https://dev.azure.com/YOURACCOUNT/Parts%20Unlimited.
 - Navigate to Pipelines | Releases
 - Delete the existing PartsUnlimitedE2E release pipeline
@@ -101,7 +101,7 @@ QA environment task | select QA web app
 - Add a build branch trigger > "The build pipeline's default branch"
 - Save
 
-## Task 3: Configuring the Azure app services for CD
+### Task 3: Configuring the Azure app services for CD
 1. Open the SQL Database - get the db connection strings
 2. Copy the ADO.NET string to your clipboard.
 3. Update username and password in the connection string with SQL credentials
@@ -112,7 +112,7 @@ DefaultConnectionString: <paste in the connectionstring>
 4. Click Save
 5. Repeat for Prod web app
 
-## Task 4: Invoking a CD release to QA
+### Task 4: Invoking a CD release to QA
 1. Open Azure Devops Repos tab in a new browser tab
 2. Edit ```PartsUnlimited-aspnet45/src/PartsUnlimitedWebsite/Views/Shared/_Layout.cshtml. ```
 ```
@@ -125,7 +125,7 @@ DefaultConnectionString: <paste in the connectionstring>
 6. Navigate to the QA Site > <app-service-name>.azurewebsites.net
 7. Check that it now says 'v2.0' after the image
 
-## Task5: Creating a gated release to the production stage
+### Task5: Creating a gated release to the production stage
 We are including both automated quality gates as well as a manual approver gate. 
 We will make it our policy that the QA deployment cannot be considered a success until all critical bugs have been resolved.
 
@@ -150,7 +150,7 @@ We will make it our policy that the QA deployment cannot be considered a success
     Once it does, the bugs will be cleared and the release will be approved. You can then click Approve to approve deployment to production.
 12. Confirm the release and watch it, and then check the prod website
 
-## Task 6: Working with deployment slots
+### Task 6: Working with deployment slots
 
 The most common scenario for using a deployment slot is to have a staging stage for your application to run against productions services, but without replacing the current production application. If the staging deployment passes review, it can immediately be “swapped” in as the production slot with the click of a button. As an additional benefit, the swap can be quickly reversed in the event an issue is uncovered with the new build.
 
@@ -170,5 +170,5 @@ The most common scenario for using a deployment slot is to have a staging stage 
 ************************************************************************
 
 
-# Exercise #3 GitHub integration with Azure Pipelines
+## Exercise #3 GitHub integration with Azure Pipelines
 Source: https://www.azuredevopslabs.com/labs/vstsextend/github-azurepipelines/
