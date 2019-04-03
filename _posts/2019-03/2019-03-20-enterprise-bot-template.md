@@ -270,6 +270,6 @@ Source: [Managing State](https://docs.microsoft.com/en-us/azure/bot-service/bot-
 
 ## Dialogues
 
-See [the dpcs](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-dialog?view=azure-bot-service-4.0)
+See [the docs](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-dialog?view=azure-bot-service-4.0)
 
 [Gathering user input via Dialogues](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-prompts?view=azure-bot-service-4.0&tabs=csharp)
