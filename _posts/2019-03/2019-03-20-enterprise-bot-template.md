@@ -1,5 +1,5 @@
 ---
-title: Understanding the Enterprise Bot Template (draft)
+title: Understanding the Enterprise Bot Template 
 layout: post
 bigimg:
   - /assets/images/angular-superpower-photo-1.jpg
@@ -18,7 +18,7 @@ https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure
 The reason that I have done my own version is that for me I'd rather read well commented (overly commented) code to understand how something works than reading a paragraph of text, then associating it with code.
 
 ## Sources
-- [how bots work](
+- [How bots work](
 https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-basics?view=azure-bot-service-4.0&tabs=cs)
 
 ### Bot Class

@@ -18,7 +18,7 @@ The materials put together by the Azure DevOps team are fantastic and cover a ve
 
 You can get them here [https://www.azuredevopslabs.com](https://www.azuredevopslabs.com).
 
-Here is an overview of what I covered on the day: 
+Here is an overview of what I covered on the day and some shortcut notes I use for when I demo the day (to save me looking up the complete docs): 
 
 ## Exercise 1a: Enabling Continuous Integration with Azure Pipelines
 Source: https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/
@@ -27,7 +27,7 @@ Source: https://www.azuredevopslabs.com/labs/azuredevops/continuousintegration/
 *************************************************************************
 
 
-## Exercise 1a: Configuring Builds as Code with YAML in Azure Pipelines
+## Exercise 1b: Configuring Builds as Code with YAML in Azure Pipelines
 Source: https://www.azuredevopslabs.com/labs/azuredevops/yaml/
 
 ### Task 1: Setting up Azure resources
