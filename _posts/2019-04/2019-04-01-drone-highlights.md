@@ -11,7 +11,7 @@ tags:
 comments: true
 ---
 
-It's a great time to be a technologist. I am spending lots of my time at the moment thinking drones, AI & IOT, and about where these technologies intersect, and where they can help people.
+It is a great time to be a technologist. I am spending lots of my time at the moment thinking about drones, AI & IOT, about where these technologies intersect, and where they can help people.
 
 I was very happy when I got asked today to do a quick 10 minute presentation on 'Where are we at with drones'.
 
@@ -29,13 +29,12 @@ Microsoft FarmBeats aims to enable farmers to increase farm productivity and red
 
 > A new partnership between Microsoft and leading drone maker DJI builds on the work both companies are doing with data and agriculture that could make it easier and more affordable for farmers to quickly get the information they need to make crucial decisions about soil moisture and temperature, pesticides and fertilizer. Hours and days spent walking or driving the fields to try to detect problems can be eliminated.
 > Since 2011, farmer Sean Stratman has grown kale, cauliflower, broccoli and squash in Carnation, Washington. Then, a few years ago, he added a new crop to his bounty: knowledge, using drones and the intelligent edge to get near-real-time information about issues like soil moisture and pests. It’s the kind of information that is not only helping him, but could benefit farmers around the world.
-
-> (Source: https://news.microsoft.com/transform/farmings-most-important-crop-may-be-the-knowledge-harvested-by-drones-and-the-intelligent-edge/ )
+> Source: [](https://news.microsoft.com/transform/farmings-most-important-crop-may-be-the-knowledge-harvested-by-drones-and-the-intelligent-edge/) 
 
 {% youtube KTvdjcU0lf8 %}
 
 More reading on FarmBeats
-- https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/
+- [](https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/)
 
 ## Project Premonition - Using drones to fight infectious diseases
 
@@ -50,12 +49,12 @@ It does this by
 
 {% youtube kSUpk5CJmkw %}
 
-Full Article: https://www.microsoft.com/en-us/research/project/project-premonition/
-More Info: https://www.microsoft.com/en-us/research/video/project-premonition-seeking-to-prevent-disease-outbreaks-extended/
+Full Article: [](https://www.microsoft.com/en-us/research/project/project-premonition/)
+More Info: [](https://www.microsoft.com/en-us/research/video/project-premonition-seeking-to-prevent-disease-outbreaks-extended/)
 
 ## Teaching Drones to Aid Search and Rescue efforts via Cognitive Services
 
-InDro Robotics, a drone operating outfit based in Salt Spring Island British Columbia, recently connected with our team at Microsoft to explore how they could better enable their drones for search and rescue efforts.
+InDro Robotics, a drone operating outfit based in Salt Spring Island British Columbia, recently connected with Microsoft to explore how they could better enable their drones for search and rescue efforts.
 
 ![Drones aiding search and rescue](./images/InDroRobotics.jpg)
 
@@ -65,7 +64,7 @@ Leveraging Custom Vision Cognitive Service and other Azure services, including I
 - Recognize emergency situations and notify control stations immediately, before assigning to a rescue squad
 - Establish communication between boats, rescue squads and the control stations. The infrastructure supports permanent storage and per-device authentication
 
-Full article: https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/
+Full article: [](https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/)
 
 ## More info
 
