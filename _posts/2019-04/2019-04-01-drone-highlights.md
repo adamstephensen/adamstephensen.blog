@@ -1,6 +1,8 @@
 ---
 title: AI on Drones - Case Study Overview
 layout: post
+bigimg:
+  - /assets/images/farmbeats.jpg
 tags:
   - Azure
   - Drones
