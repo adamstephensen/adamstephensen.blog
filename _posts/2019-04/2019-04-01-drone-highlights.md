@@ -10,11 +10,12 @@ tags:
   - IOT
 comments: true
 ---
-I love drones. I love AI. I love IOT.. and I am spending lots of my time at the moment thinking about where these technologies intersect, and where they can help people.
+
+It's a great time to be a technologist. I am spending lots of my time at the moment thinking drones, AI & IOT, and about where these technologies intersect, and where they can help people.
 
 I was very happy when I got asked today to do a quick 10 minute presentation on 'Where are we at with drones'.
 
-Rather than just deliver it once I thought I'd capture it here.
+Rather than just deliver it once I thought I'd capture some thoughts here.
 
 ## eSmart Systems - Using drones for power line inspection
 
@@ -26,11 +27,10 @@ Maintenance of electrical grids is not only time consuming and costly, but it ca
 
 Microsoft FarmBeats aims to enable farmers to increase farm productivity and reduce costs by enabling data-driven farming.
 
-> A new partnership between Microsoft and leading drone maker DJI builds on the work both companies are doing with data and agriculture that could make it easier and more affordable for farmers like Stratman to quickly get the information they need to make crucial decisions about soil moisture and temperature, pesticides and fertilizer. Hours and days spent walking or driving the fields to try to detect problems can be eliminated.
-> Source: https://news.microsoft.com/transform/farmings-most-important-crop-may-be-the-knowledge-harvested-by-drones-and-the-intelligent-edge/
-
-FarmBeats includes several unique solutions to
+> A new partnership between Microsoft and leading drone maker DJI builds on the work both companies are doing with data and agriculture that could make it easier and more affordable for farmers to quickly get the information they need to make crucial decisions about soil moisture and temperature, pesticides and fertilizer. Hours and days spent walking or driving the fields to try to detect problems can be eliminated.
 > Since 2011, farmer Sean Stratman has grown kale, cauliflower, broccoli and squash in Carnation, Washington. Then, a few years ago, he added a new crop to his bounty: knowledge, using drones and the intelligent edge to get near-real-time information about issues like soil moisture and pests. It’s the kind of information that is not only helping him, but could benefit farmers around the world.
+
+> (Source: https://news.microsoft.com/transform/farmings-most-important-crop-may-be-the-knowledge-harvested-by-drones-and-the-intelligent-edge/ )
 
 {% youtube KTvdjcU0lf8 %}
 
