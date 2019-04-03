@@ -32,6 +32,8 @@ Microsoft FarmBeats aims to enable farmers to increase farm productivity and red
 FarmBeats includes several unique solutions to
 > Since 2011, farmer Sean Stratman has grown kale, cauliflower, broccoli and squash in Carnation, Washington. Then, a few years ago, he added a new crop to his bounty: knowledge, using drones and the intelligent edge to get near-real-time information about issues like soil moisture and pests. It’s the kind of information that is not only helping him, but could benefit farmers around the world.
 
+{% youtube KTvdjcU0lf8 %}
+
 More reading on FarmBeats
 - https://www.microsoft.com/en-us/research/project/farmbeats-iot-agriculture/
 
@@ -46,14 +48,16 @@ It does this by
 - Collecting mosquitos with robots
 - Detecting pathogens by gene sequencing
 
+{% youtube kSUpk5CJmkw %}
+
 Full Article: https://www.microsoft.com/en-us/research/project/project-premonition/
+More Info: https://www.microsoft.com/en-us/research/video/project-premonition-seeking-to-prevent-disease-outbreaks-extended/
 
 ## Teaching Drones to Aid Search and Rescue efforts via Cognitive Services
 
 InDro Robotics, a drone operating outfit based in Salt Spring Island British Columbia, recently connected with our team at Microsoft to explore how they could better enable their drones for search and rescue efforts.
 
-
-![alt text](./images/InDroRobotics.jpg)
+![Drones aiding search and rescue](./images/InDroRobotics.jpg)
 
 Leveraging Custom Vision Cognitive Service and other Azure services, including IoT Hub, InDro Robotics developers can now successfully equip their drones to:
 
@@ -61,11 +65,7 @@ Leveraging Custom Vision Cognitive Service and other Azure services, including I
 - Recognize emergency situations and notify control stations immediately, before assigning to a rescue squad
 - Establish communication between boats, rescue squads and the control stations. The infrastructure supports permanent storage and per-device authentication
 
-
 Full article: https://blogs.technet.microsoft.com/canitpro/2017/05/10/teaching-drones-to-aid-search-and-rescue-efforts-via-cognitive-services/
-
-
-
 
 ## More info
 
