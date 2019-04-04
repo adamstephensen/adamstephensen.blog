@@ -6,6 +6,13 @@ permalink: /speaking/tips/
 sitemap:
 changefreq: daily
 ---
+
+<div class="apis-masthead">
+  <div class="container">
+    <h1>Speaking - Tips </h1>      
+  </div>
+</div>
+
 ## Two Months Before
 1. Make sure you have at least 4 public test runs of your talk
 
