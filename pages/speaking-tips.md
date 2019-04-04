@@ -17,10 +17,14 @@ changefreq: daily
 1. Make sure you have at least 4 public test runs of your talk
 
 ## The Day Before
-1. Nail your 1st 5 and last 5
-I worked for a great conference speaker - Adam Cogan.
-He taught me many things. Right before I did any talk, he always watned to hear my first five minutes of the talk and the last five minutes of the talk.
-These are essential. 
+1. Nail your 1st 5 and last 5  
+I worked for a great conference speaker - Adam Cogan.  
+He taught me many things.  
+Right before I did any talk, he always watned to hear the first five minutes of the talk and the last five minutes of the talk.  
+These are essential.  
+The first five minutes gets the user in, and excites them about the content.  
+The last five minutes is when you really nail your message, and leave them inspired, and with some actions that they are excited to follow up on.  
+
 
 1. 	Make sure there is someone in the audience writing down feedback for your talk. 
 Choose this person carefully.. who understands what a great talk is, and cares enough about you giving good talks to be really focused on what you did well, what you didn’t do well, and what you should do next time.
