@@ -8,6 +8,7 @@ tags:
   - Drones
   - AI
   - IOT
+  - Cognitive Services
 comments: true
 ---
 
