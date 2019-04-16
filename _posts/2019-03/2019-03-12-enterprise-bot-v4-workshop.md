@@ -75,3 +75,31 @@ I intend to flesh this out and improve it as we run more and more.
 
 ## Resources: 
 
+# Getting Ready 
+
+## Setup Requirements
+
+The requirements for the Enterprise Bot Template (as per https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-deployment?view=azure-bot-service-4.0 )
+
+Enterprise Template Bots require the following dependencies for end to end operation.
+
+- Azure Web App
+- Azure Storage Account (Transcripts)
+- Azure Application Insights (Telemetry)
+- Azure CosmosDb (Conversation State storage)
+- Azure Cognitive Services - Language Understanding
+- Azure Cognitive Services - QnA Maker (includes Azure Search, Azure Web App)
+- Azure Cognitive Services - Content Moderator (optional manual step)
+
+## Deploy the Enterprise Template before the workshop
+
+Because the workshop covers a lot of ground, it is best if before the workshop a developer on the project follows the Create, Customise and Deploy steps for the bot template. 
+
+The instructions are very straight forward and clear. Once this is done – in the workshop we can spend time explaining the code and best practices as opposed to going through the exact steps in the doco.
+
+-	Create the project https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-create-project?view=azure-bot-service-4.0
+-	Customer the template https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-customize?view=azure-bot-service-4.0 
+-	Deploy the template https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-enterprise-template-deployment?view=azure-bot-service-4.0 
+
+I’m looking forward to building a bot together !
+
