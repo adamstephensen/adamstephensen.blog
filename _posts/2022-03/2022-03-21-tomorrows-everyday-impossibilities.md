@@ -31,10 +31,11 @@ In one lifetime, GaGa saw impossibilities from science fiction and fairy tales c
  
 Astronomy is about imagination, science, exploration and discovery. 
  
-I don't have one particular field of astronomy that I find the most fascinating. Rather it is the exploration, the innovation and the discovery that inspires me. I sat transfixed with my daughter as we watched the Curiosity Rover's seven minutes of terror. I was overjoyed when Ingenuity successfully made its first flight. I am constantly amazed as new astronomical discoveries are published like the first isolated black hole to be discovered in interstellar space (Wilkins, 2022).
+I don't have one particular field of astronomy that I find the most fascinating. Rather it is the exploration, the innovation and the discovery that inspires me. I sat transfixed with my daughter as we watched the Curiosity Rover's seven minutes of terror. I was overjoyed when Ingenuity successfully made its first flight. I am constantly amazed as new astronomical discoveries are published like the [first isolated black hole to be discovered in interstellar space](https://www.newscientist.com/article/2307246-first-truly-isolated-black-hole-detected-in-interstellar-space/).
  
 What I love about Astronomy is exploring the big dark holes in our current understanding of how the Universe works, and the potential impossibilities that those tunnels may lead to. Could a better understanding of relativity and the nature of the fabric of the universe enable faster than light travel? What will a better understanding of black holes and dark energy yield? Will we discover life beyond our solar system? The more I study Astronomy, the more opportunities for amazing discoveries I find.
  
 The promise of Astronomy is tomorrow's everyday impossibilities. 
  
 It's a privilege to be able to participate in that journey.
+
